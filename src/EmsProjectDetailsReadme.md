@@ -1,9 +1,9 @@
-###Employee Management System
+### Employee Management System
 
-######Run the project
+###### Run the project
 - `Run AppRunner.java file` 
 
-######DataBase Data 
+###### DataBase Data 
  + Go to the 'database' file
  
 ###### Files 
@@ -14,7 +14,7 @@
 + **SearchMoule:** Searching data.
 + **MenuModule:** Menu calling all above methods.
 
-######Others
+###### Others
 + `login credentials`
 + Username: 'admin'
 + password: 'admin'
